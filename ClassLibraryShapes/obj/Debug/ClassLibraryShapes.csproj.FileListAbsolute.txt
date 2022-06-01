@@ -1,0 +1,6 @@
+D:\MVS\Projects\Курсов проект\ClassLibraryShapes\bin\Debug\ClassLibraryShapes.dll
+D:\MVS\Projects\Курсов проект\ClassLibraryShapes\bin\Debug\ClassLibraryShapes.pdb
+D:\MVS\Projects\Курсов проект\ClassLibraryShapes\obj\Debug\ClassLibraryShapes.csprojAssemblyReference.cache
+D:\MVS\Projects\Курсов проект\ClassLibraryShapes\obj\Debug\ClassLibraryShapes.csproj.CoreCompileInputs.cache
+D:\MVS\Projects\Курсов проект\ClassLibraryShapes\obj\Debug\ClassLibraryShapes.dll
+D:\MVS\Projects\Курсов проект\ClassLibraryShapes\obj\Debug\ClassLibraryShapes.pdb

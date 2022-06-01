@@ -1,0 +1,15 @@
+D:\MVS\Projects\Курсов проект\CourseProject\bin\Debug\CourseProject.exe.config
+D:\MVS\Projects\Курсов проект\CourseProject\bin\Debug\CourseProject.exe
+D:\MVS\Projects\Курсов проект\CourseProject\bin\Debug\CourseProject.pdb
+D:\MVS\Projects\Курсов проект\CourseProject\obj\Debug\CourseProject.csprojAssemblyReference.cache
+D:\MVS\Projects\Курсов проект\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+D:\MVS\Projects\Курсов проект\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+D:\MVS\Projects\Курсов проект\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+D:\MVS\Projects\Курсов проект\CourseProject\obj\Debug\CourseProject.exe
+D:\MVS\Projects\Курсов проект\CourseProject\obj\Debug\CourseProject.pdb
+D:\MVS\Projects\Курсов проект\CourseProject\obj\Debug\CourseProject.Scene.resources
+D:\MVS\Projects\Курсов проект\CourseProject\obj\Debug\CourseProject.FormPropertiesRectangle.resources
+D:\MVS\Projects\Курсов проект\CourseProject\obj\Debug\CourseProject.FormPropertiesTriangle.resources
+D:\MVS\Projects\Курсов проект\CourseProject\bin\Debug\ClassLibraryShapes.dll
+D:\MVS\Projects\Курсов проект\CourseProject\bin\Debug\ClassLibraryShapes.pdb
+D:\MVS\Projects\Курсов проект\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
